@@ -1,0 +1,36 @@
+#row
+{
+   margin-top:10%;
+}
+.form-control
+{
+}  
+#add
+{
+  
+    border: black;
+    background-color: brown;
+    border-radius: 40px;
+    color: white;
+
+}
+#heading
+
+{
+    color:teal;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+#find
+{
+  
+    border: black;
+    background-color:green;
+    border-radius: 20px;
+    color: white;
+
+}
+#searchtext
+{
+width:138%;
+}
